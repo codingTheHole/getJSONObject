@@ -1,5 +1,5 @@
 # getJSONObject
-Quickly drill down through the Swift Dictionary returned by NSJSONSerialzer
+Quickly drill down through the Swift Dictionary returned by NSJSONSerialzer. No need to create special JSON objects.
 
 Work in progress, not tested on Bool values.
 
