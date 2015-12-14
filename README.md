@@ -27,13 +27,13 @@ let sampleData: [String: AnyObject] = [
     ]
 ]
 
-// fail and return nil
+// these fail and return nil
 
 print(getJSONObject(["grr","dicts", "myArray", 1, "doubles", 2], data: sampleData))
 print(getJSONObject(["dicts", "myArray", 99, "doubles", 2, "grr"], data: sampleData))
 print(getJSONObject([1 ,"dicts", "myArray", 1, "doubles", 2], data: sampleData))
 
-return a ? value
+// these return an optional value
 
 print(getJSONObject(["dicts", "myArray", 1, "doubles", 2], data: sampleData))
 print(getJSONObject(["dicts", "numbers", "10"], data: sampleData))
