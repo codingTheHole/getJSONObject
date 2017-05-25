@@ -4,7 +4,7 @@ Quickly drill down through the Swift Dictionary returned by NSJSONSerialzer. No 
 Work in progress, not tested on Bool values.
 
 Installation:
-Just drag JSONUtils.swift into Xcode project
+Easy. Just drag JSONUtils.swift into Xcode project
 
 Use:
 
